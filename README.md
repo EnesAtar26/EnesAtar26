@@ -1,5 +1,7 @@
 ## <h1> Hello, I am Enes Atar
+<h1> Programmer, Computer Engineer student, Game Developer
 
+I'm currently working on a horror game and a food journal app for mobile.
 
 <!--
 **EnesAtar26/EnesAtar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
