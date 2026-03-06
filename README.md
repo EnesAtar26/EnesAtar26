@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enes Atar
 
-**Recent BSc Computer Engineering Graduate(Almost 😄)**  
+**Recent BSc Computer Engineering Graduate**  
 Passionate about software development, game development, and building practical systems from idea to deployment.
 
 ---
