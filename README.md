@@ -6,7 +6,7 @@ Passionate about software development, game development, and building practical 
 ---
 
 ## 🧠 About Me
-- 🎓 Bachelor of Science in Computer Engineering (Expected Graduation Date: 05.03.2026)
+- 🎓 Bachelor of Science in Computer Engineering
 - 💻 Interested in **Software Development**, **Game Development**, and **Backend / Cloud Technologies**
 - 🛠 Strong foundation in **Object-Oriented Programming**, algorithms, and system design
 - 🌱 Continuously learning and improving through hands-on projects
